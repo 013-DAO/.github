@@ -1,5 +1,7 @@
 # 013 DAO
 
+![013 DAO DOC](https://docs.google.com/document/d/1Z7sAHx342-K0Mi33GCjHrSuaZtiy6wj35JxDis-aXag/edit?usp=sharing)
+
 ![013 DAO Logo](path/to/logo.png)
 
 ## 📢 Sobre a 013 DAO
